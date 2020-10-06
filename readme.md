@@ -6,6 +6,6 @@
 5. 返回其逆矩阵
 
 <hr>
-![Image](https://github.com/liouyi250/geo/blob/master/pic/1.PNG)
-![Image](https://github.com/liouyi250/geo/blob/master/pic/2.PNG)
+![Image](https://github.com/liouyi250/geo/blob/master/pic/1.png)
+![Image](https://github.com/liouyi250/geo/blob/master/pic/2.png)
 
