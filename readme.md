@@ -5,7 +5,7 @@
 4. 将M的对角矩阵变为单位矩阵
 5. 返回其逆矩阵
 
-<hr>
+## 布尔莎七参数求解
 ![Image](https://github.com/liouyi250/geo/blob/master/pic/1.png)
 ![Image](https://github.com/liouyi250/geo/blob/master/pic/2.png)
 
